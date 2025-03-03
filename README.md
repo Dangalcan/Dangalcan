@@ -1,38 +1,38 @@
-## 👋 Hola, soy [Tu Nombre]!
+## 👋 Hi, I'm [Your Name]!
 
-Soy un apasionado del desarrollo de software con experiencia en [tu stack tecnológico]. Me encanta construir soluciones innovadoras y colaborar en proyectos interesantes.
+I'm a passionate software developer with experience in [your tech stack]. I love building innovative solutions and collaborating on exciting projects.
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 - 💻 **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- 🌱 **Aprendiendo:** [Tecnología que estás aprendiendo]
-- 🎯 **Objetivo 2025:** [Tu meta profesional]
-- 🎨 **Portfolio:** [Enlace a tu portfolio si tienes]
-- 🎤 **Blog/Artículos:** [Enlace a tu blog si tienes]
+- 🌱 **Currently Learning:** [Technology you're learning]
+- 🎯 **2025 Goal:** [Your professional goal]
+- 🎨 **Portfolio:** [Link to your portfolio if you have one]
+- 🎤 **Blog/Articles:** [Link to your blog if you have one]
 
 ---
 
-### 📌 Proyectos Destacados
-🔹 **[Proyecto 1](https://github.com/tuusuario/proyecto1)** - Breve descripción del proyecto.
+### 📌 Featured Projects
+🔹 **[Project 1](https://github.com/yourusername/project1)** - Brief description of the project.
 
-🔹 **[Proyecto 2](https://github.com/tuusuario/proyecto2)** - Breve descripción del proyecto.
+🔹 **[Project 2](https://github.com/yourusername/project2)** - Brief description of the project.
 
-🔹 **[Proyecto 3](https://github.com/tuusuario/proyecto3)** - Breve descripción del proyecto.
+🔹 **[Project 3](https://github.com/yourusername/project3)** - Brief description of the project.
 
-Más en [mi GitHub](https://github.com/tuusuario) 🚀
-
----
-
-### 📊 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+More on [my GitHub](https://github.com/yourusername) 🚀
 
 ---
 
-### 📬 Contacto
-📧 Email: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-💼 LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tuusuario/)  
-🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-😊 ¡Gracias por visitar mi perfil!
+---
+
+### 📬 Contact
+📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+💼 LinkedIn: [Your Name](https://www.linkedin.com/in/yourusername/)  
+🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+
+😊 Thanks for visiting my profile!
