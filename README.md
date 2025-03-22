@@ -25,6 +25,7 @@ More on [my GitHub](https://github.com/Dangalcan) 🚀
 
 ### 📬 Contact
 📧 Email: [megamagolas@gmail.com](mailto:megamagolas@gmail.com)  
-💼 LinkedIn: [Daniel Galván Cancio](https://www.linkedin.com/in/daniel-galv%C3%A1n-cancio/)  
+💼 LinkedIn: [Daniel Galván Cancio](https://www.linkedin.com/in/daniel-galv%C3%A1n-cancio/)
+🧑‍🔬 ORCID: [0009-0006-8590-7331](https://orcid.org/0009-0006-8590-7331)
 
 😊 Thanks for visiting my profile!
