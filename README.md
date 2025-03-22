@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Daniel Gañván!
+## 👋 Hi, I'm Daniel Galván!
 
 I'm a passionate researcher and software developer with a year and a half of experience. I'm always open to new challenges.
 
