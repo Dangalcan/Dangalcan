@@ -1,6 +1,3 @@
-## 👋 Hi, I'm Daniel Galván!
-
-
 <h3 align="center">Wellcome to my Github profile!</h3>
 
 I'm a passionate researcher and software developer with a year and a half of experience. I'm always open to new challenges.
@@ -32,6 +29,5 @@ I'm a passionate researcher and software developer with a year and a half of exp
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangalcan" alt="dangalcan" /></a> </p>
 
 <div align="center">
-  ![Dangalcan Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dangalcan&theme=nord_bright)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dangalcan&theme=nord_bright" alt="Dangalcan Graph" />
 </div>
-
