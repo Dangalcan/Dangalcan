@@ -75,6 +75,9 @@ I'm a passionate researcher and software developer with a year and a half of exp
 <a href="https://linkedin.com/in/daniel-galván-cancio" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
 </a>
+<a href="https://www.credly.com/users/daniel-galvan-cancio" target="blank">
+  <img src="https://img.shields.io/badge/-Credly-FF6C2C?style=flat&logo=credly&logoColor=white" alt="Credly Profile" />
+</a>
 <a href="https://www.hackerrank.com/megamagolas" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="30" />
 </a>
