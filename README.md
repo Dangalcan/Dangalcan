@@ -43,7 +43,7 @@ I'm a passionate researcher and software developer with a year and a half of exp
 
 ## 💻 **Tech Stack:**  
 
-### 🖥️ **Programming Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+### 🔤 **Programming Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 
 ### 🚀 **Frameworks:** ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
 
@@ -51,9 +51,7 @@ I'm a passionate researcher and software developer with a year and a half of exp
 
 ### 🗄️ **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![NeDB](https://img.shields.io/badge/-NeDB-1D1D1B?style=flat&logo=npm&logoColor=white)
 
-
 ### 🧪 **Testing:** ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Selenium Hub](https://img.shields.io/badge/-Selenium%20Hub-43B02A?style=flat&logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=python&logoColor=white) ![Locust](https://img.shields.io/badge/-Locust-77AC47?style=flat&logo=locust&logoColor=white)  
-
 
 ### 🛠️ **Database Management Tools:** ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-009688?style=flat)  ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)  
 
@@ -65,11 +63,15 @@ I'm a passionate researcher and software developer with a year and a half of exp
 
 ### ⚙️ **IDEs:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-181818?style=flat&logo=remix&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)  ![SageMath](https://img.shields.io/badge/-SageMath-8B0000?style=flat&logo=sagemath&logoColor=white)
 
-### 🔧 **Miscellaneous:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+### 🖥️ **Operative Systems:**  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FCC624?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![UNRAID](https://img.shields.io/badge/-UNRAID-F15A24?style=flat&logo=unraid&logoColor=white)  
+
+### 🔌 **Networking & Tools**  ![Porkbun](https://img.shields.io/badge/-Porkbun-FF3366?style=flat&logo=porkbun&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx_Proxy_Manager-009639?style=flat&logo=nginx&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 🎬 **Video:** ![Filmora](https://img.shields.io/badge/-Filmora-000000?style=flat&logo=filmora&logoColor=white)  ![Kdenlive](https://img.shields.io/badge/-Kdenlive-3FBF7F?style=flat&logo=kdenlive&logoColor=white) ![Streamlabs](https://img.shields.io/badge/-Streamlabs-00A6A6?style=flat&logo=streamlabs&logoColor=white)
 
 ### 💼 **Office Suite:** ![G Suite](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)  ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+
+### 🔧 **Miscellaneous:** No data yet
 
 ## 🌐 You can also find me on:</h3>
 <a href="https://linkedin.com/in/daniel-galván-cancio" target="blank">
