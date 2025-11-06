@@ -69,6 +69,8 @@ I'm a passionate researcher and software developer with a year and a half of exp
 
 ### 🔌 **Networking & Tools**  ![Porkbun](https://img.shields.io/badge/-Porkbun-FF3366?style=flat&logo=porkbun&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx_Proxy_Manager-009639?style=flat&logo=nginx&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/-Caddy-0F9D58?style=flat&logo=caddy&logoColor=white) 
 
+### 🧩 **Version control:** ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white)
+
 ### 🎬 **Video:** ![Filmora](https://img.shields.io/badge/-Filmora-000000?style=flat&logo=filmora&logoColor=white)  ![Kdenlive](https://img.shields.io/badge/-Kdenlive-3FBF7F?style=flat&logo=kdenlive&logoColor=white) ![Streamlabs](https://img.shields.io/badge/-Streamlabs-00A6A6?style=flat&logo=streamlabs&logoColor=white)
 
 ### 💼 **Office Suite:** ![G Suite](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)  ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
