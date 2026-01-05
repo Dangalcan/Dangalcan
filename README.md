@@ -76,7 +76,8 @@ I'm a passionate researcher and software developer with a year and a half of exp
 
 ### 💼 **Office Suite:** ![G Suite](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)  ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-### 🔧 **Miscellaneous:** No data yet
+### 🔧 **Miscellaneous:** ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)  
+
 
 ## 🌐 You can also find me on:</h3>
 <a href="https://linkedin.com/in/daniel-galván-cancio" target="blank">
